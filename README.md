@@ -14,7 +14,7 @@ El servicio se conecta al broker de RabbitMQ. Se valida que los servicios de inf
 
 ## Infraestructura y Base de Datos
 Levantamiento de los servicios de PostgreSQL y red virtual mediante Docker Compose.
-![Levantamiento](controller database.jpg)
+![Levantamiento](controller%20database.jpg)
 
 ## Consumo y Pruebas (Postman)
 Evidencia de la correcta recepción de mensajes y procesamiento de facturas.
