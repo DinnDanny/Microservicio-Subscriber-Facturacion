@@ -22,8 +22,7 @@ Evidencia de la correcta recepción de mensajes y procesamiento de facturas.
 
 ## Estructura de la tabla Pedidos
 Diseño de la tabla en pgAdmin para el almacenamiento permanente de los datos.
-![Tabla Pedidos](tabla pedidos.png)
-
+![Tabla Pedidos](tabla%20pedidos.png)
 ## Evidencias de Configuración
 Capturas adicionales de la gestión de archivos y pruebas de envío.
 
