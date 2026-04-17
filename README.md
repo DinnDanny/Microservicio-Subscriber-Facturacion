@@ -25,9 +25,8 @@ Diseño de la tabla en pgAdmin para el almacenamiento permanente de los datos.
 ![Tabla Pedidos](tabla pedidos.png)
 
 ## Evidencias de Configuración
-Capturas adicionales de la gestión de archivos y pruebas de autorización.
-![Gestión de Archivos](image_2c71c4.png)
-![Error de Autorización](image_2c8c03.png)
+Capturas adicionales de la gestión de archivos y pruebas de envío.
+
 ![Envío Exitoso](image_2cded8.png)
 
 ## Conclusión
